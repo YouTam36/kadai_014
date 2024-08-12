@@ -1,7 +1,9 @@
+html{
+  font-size: 20px;
+}
 body{
   font-family: "Arial", "Meiryo", sans-serif;
   text-align: center;
-  font-size: 20px;
 }
 
 .decoration{
@@ -10,9 +12,9 @@ body{
     font-weight: <weight>;
     font-style: normal;
     letter-spacing: 1.2em;
-    font-size: 40px;
     border-bottom: solid 3px rgb(115, 115, 114);
     text-shadow: 1px 1px 2px gray;
+    font-size: 2em;
 }
 .skyblue{
   color: skyblue;
